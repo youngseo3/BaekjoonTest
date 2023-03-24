@@ -9,8 +9,6 @@ public class S4_10998 {
 		
 		System.out.println(A*B);
 		
-		scanner.close();
-		
+		scanner.close();	
 	}
-
 }
