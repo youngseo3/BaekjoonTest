@@ -6,6 +6,8 @@ public class S7_10926 {
 		String id = scanner.nextLine();
 		
 		System.out.println(id+"??!");
+		
+		scanner.close();
 			
 	}
 }
