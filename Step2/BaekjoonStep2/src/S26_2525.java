@@ -14,7 +14,7 @@ public class S26_2525 {
 		int min = A * 60 + B;
 		min += C;
 		
-		int hour = (min/60)%24;
+		int hour = ( min / 60)%24;
 		int minute = min % 60;
 		
 		System.out.println(hour + " " + minute);	
